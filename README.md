@@ -12,9 +12,9 @@
 - 🌱 I’m currently learning Go and Flutter 🐍
 - ⚡ Fun fact: I am almost, always working 😄
 
-## 🛠 Techs
+<!-- ## 🛠 Techs
 
-![Git](images/git.svg "Git") ![HTML](images/html.svg "HTML")![NodeJs](images/node.svg "NodeJs") ![NestJs](images/nest.svg "NestJs") ![VueJs](images/vue.svg "VueJs") ![PostgreSQL](images/postgres.svg "PostgreSQL") ![AdonisJs](images/adonis.svg "AdonisJs") ![gRPC](images/grpc.svg "gRPC") ![Kafka](images/kafka.svg "Kafka") 
+![Git](images/git.svg "Git") ![HTML](images/html.svg "HTML")![NodeJs](images/node.svg "NodeJs") ![NestJs](images/nest.svg "NestJs") ![VueJs](images/vue.svg "VueJs") ![PostgreSQL](images/postgres.svg "PostgreSQL") ![AdonisJs](images/adonis.svg "AdonisJs") ![gRPC](images/grpc.svg "gRPC") ![Kafka](images/kafka.svg "Kafka")  -->
 
 
 <!---
