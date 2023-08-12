@@ -72,8 +72,11 @@
 <a href="https://www.alpinelinux.org/" target="_blank"> <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" /> </a>
 
 ## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadjous&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="sadjous" /></p
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadjous&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="sadjous" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadjous&show_icons=true&locale=en&langs_count=10&layout=compact&hide_title=true" alt="sadjous" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadjous&show_icons=true&locale=en&count_private=true&hide_title=true" alt="sadjous" />
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadjous&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="sadjous" /></p -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadjous&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="sadjous" /></p> -->
 
 ### You can find me here:
 <!-- <a href="https://discord.gg/NqqtkS7ekj" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a> -->
