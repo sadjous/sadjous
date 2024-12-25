@@ -2,15 +2,14 @@
 
 ---
 
-### About me 👨🏽‍💻
+### About Me 👨🏽‍💻
 
-- 🎓 I’m a Computer Science graduate
-- 💼 I'm currently working at [OPEN SI](https://www.opensi.co "https://www.opensi.co")
-- 📫 How to reach me: [e-mail](mailto:ousmanesadjad@gmail.com "ousmanesadjad@gmail.com") or [call](tel:+22966303593 "+22966303593") me
-- 💬 Ask me about frontend and backend development for Web
-- 👯 I’m looking to collaborate with any tech enthousiast ❤️
-- 🌱 I’m currently learning Go and Flutter 🐍
-- ⚡ Fun fact: I am almost, always working 😄
+- 🎓 I’m a Computer Science graduate with a passion for solving real-world problems through technology.  
+- 🌟 I specialize in **frontend and backend development**, creating user-centric applications that deliver value and performance.  
+- 🌱 I’m currently learning **Go** and **Flutter**, expanding my skill set to include modern programming paradigms.  
+- 💬 Ask me about **microservices architecture**, **WebAuthn**, **gRPC**, **Prisma**, **NestJs**, **RESTful APIs**, or **Vue.js & TypeScript**.  
+- ⚡ I love participating in hackathons and building side projects to explore emerging technologies.  
+- 🚀 Future Goals: To delve deeper into **AI-driven web technologies** and contribute more to **open-source projects**.
 
 
 ## Languages & Tools
