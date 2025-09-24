@@ -1,4 +1,4 @@
-## 👋🏾 Hi there ! I am [Mohamed Sadjad OUSMANE](https://www.linkedin.com/in/sadjous)
+## 👋🏾 Hi there ! I am [Sadjad OUSMANE](https://www.linkedin.com/in/sadjous)
 
 ---
 
