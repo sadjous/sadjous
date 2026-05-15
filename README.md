@@ -1,57 +1,109 @@
-## 👋🏾 Hi there ! I am [Sadjad OUSMANE](https://www.linkedin.com/in/sadjous)
+<h1 align="center">Hi, I'm Sadjad OUSMANE 👋🏾</h1>
+<h3 align="center">Full-stack Software Engineer · Building things that ship</h3>
+
+<p align="center">
+  <a href="https://msadjad.dev">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://blog.msadjad.dev">📝 Blog</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sadjous">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/sadj_ous">🐦 Twitter</a> &nbsp;·&nbsp;
+  <a href="mailto:ousmanesadjad@gmail.com">✉️ Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadjous&label=Profile+views&color=3B82F6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Lille-France-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
 ---
 
-### About Me 👨🏽‍💻
+## 👨🏽‍💻 About
 
-- 🎓 I’m a Computer Science graduate with a passion for solving real-world problems through technology.  
-- 🌟 I specialize in **frontend and backend development**, creating user-centric applications that deliver value and performance.  
-- 🌱 I’m currently learning **Go** and **Flutter**, expanding my skill set to include modern programming paradigms.  
-- 💬 Ask me about **microservices architecture**, **WebAuthn**, **gRPC**, **Prisma**, **NestJs**, **RESTful APIs**, or **Vue.js & TypeScript**.  
-- ⚡ I love participating in hackathons and building side projects to explore emerging technologies.  
-- 🚀 Future Goals: To delve deeper into **AI-driven web technologies** and contribute more to **open-source projects**.
+I'm a Computer Science graduate who builds production web applications by day and explores emerging tech by night. I care about **clean architecture**, **developer experience**, and **shipping things that work**.
 
+```yaml
+focus:        WebAuthn · gRPC · realtime systems · API design
+learning:     Go · Flutter
+playground:   Hackathons · side projects · open-source
+ask_me_about: Microservices · TypeScript · NestJS · Vue 3 · Prisma
+```
 
-## Languages & Tools
+## 🛠 Tech Stack
 
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Js" alt="Js" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo" alt="Mongo" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" title="AdonisJs" alt="AdonisJs" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJs" alt="NestJs" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" title="gRPC" alt="gRPC" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="StoryBook" alt="StoryBook" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,go,java,dart,cpp,vue,nuxt,tailwind,sass,flutter,nestjs,nodejs,spring,prisma,grpc,postgres,mongodb,redis,sqlite,docker,gcp,git,jest,figma,vscode&perline=13" alt="Tech stack" />
+  </a>
+</p>
 
-## Github Stats
+## 🚀 Featured Projects
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadjous&show_icons=true&locale=en&langs_count=10&layout=compact&hide_title=true" alt="sadjous" />
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadjous&show_icons=true&locale=en&count_private=true&hide_title=true" alt="sadjous" />
+### 🔐 [passkeys-auth-migration](https://github.com/SoftZenIT/passkeys-auth-migration)
 
-<!---
-sadjous/sadjous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Toolkit for migrating user authentication from passwords to **WebAuthn / Passkeys**.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WebAuthn](https://img.shields.io/badge/WebAuthn-3B82F6?style=flat-square)
+<br/>
+![Stars](https://img.shields.io/github/stars/SoftZenIT/passkeys-auth-migration?style=flat-square&color=yellow&label=★)
+
+</td>
+<td width="33%" valign="top">
+
+### 💬 [nest-whatsapp](https://github.com/SoftZenIT/nest-whatsapp)
+
+NestJS module for integrating **WhatsApp messaging** — typed, batteries-included.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+<br/>
+![Stars](https://img.shields.io/github/stars/SoftZenIT/nest-whatsapp?style=flat-square&color=yellow&label=★)
+
+</td>
+<td width="33%" valign="top">
+
+### 📋 [b-board](https://github.com/SoftZenIT/b-board)
+
+<!-- EDIT: a one-liner describing what b-board does would land well here -->
+Personal project — collaborative board / workspace.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br/>
+![Stars](https://img.shields.io/github/stars/SoftZenIT/b-board?style=flat-square&color=yellow&label=★)
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sadjous&hide_border=true&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com?user=sadjous&hide_border=true" alt="Contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sadjous&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sadjous&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+  </picture>
+</p>
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadjous/sadjous/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sadjous/sadjous/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
+
+---
+
+<p align="center">
+  <sub>💬 Open to interesting conversations about software, side projects, and emerging tech.<br/>
+  Reach me on <a href="https://www.linkedin.com/in/sadjous">LinkedIn</a> or at <a href="mailto:ousmanesadjad@gmail.com">ousmanesadjad@gmail.com</a>.</sub>
+</p>
