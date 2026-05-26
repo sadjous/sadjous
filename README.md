@@ -1,107 +1,142 @@
-<h1 align="center">Hi, I'm Sadjad OUSMANE 👋🏾</h1>
-<h3 align="center">Full-stack Software Engineer · Building things that ship</h3>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--  Profile README · github.com/sadjous                                  -->
+<!--  Design system — single accent, applied everywhere:                   -->
+<!--    navy / card bg : #1a1b27   accent (blue) : #3B82F6                 -->
+<!--    body text       : #a9b1d6   muted text    : #8b949e                -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<!-- ───────────────────────────── HERO ───────────────────────────── -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3b82f6&height=190&section=header&text=Sadjad%20Ousmane&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-stack%20Software%20Engineer&descSize=18&descAlignY=58" alt="Sadjad Ousmane — Full-stack Software Engineer" />
 
 <p align="center">
-  <a href="https://msadjad.dev">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://blog.msadjad.dev">📝 Blog</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/sadjous">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://twitter.com/sadj_ous">🐦 Twitter</a> &nbsp;·&nbsp;
-  <a href="mailto:ousmanesadjad@gmail.com">✉️ Email</a>
+  <a href="https://msadjad.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&duration=3000&color=3B82F6&center=true&vCenter=true&width=640&lines=API+design+%C2%B7+gRPC+%C2%B7+realtime+systems;WebAuthn+%26+Passkeys+enthusiast;TypeScript+%C2%B7+NestJS+%C2%B7+Vue+3+%C2%B7+Prisma;Clean+architecture%2C+shipped." alt="What I work on" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadjous&label=Profile+views&color=3B82F6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Lille-France-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://msadjad.dev"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://blog.msadjad.dev"><img src="https://img.shields.io/badge/Blog-3B82F6?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sadjous"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://twitter.com/sadj_ous"><img src="https://img.shields.io/badge/Twitter-3B82F6?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="mailto:ousmanesadjad@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadjous&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views" />&nbsp;
+  <img src="https://img.shields.io/badge/Lille%20%C2%B7%20France-1a1b27?style=flat-square&logo=googlemaps&logoColor=3B82F6&labelColor=1a1b27" alt="Based in Lille, France" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:3b82f6&height=2&section=header" alt="" />
+
+<!-- ───────────────────────────── ABOUT ───────────────────────────── -->
 
 ## 👨🏽‍💻 About
 
 I'm a Computer Science graduate who builds production web applications by day and explores emerging tech by night. I care about **clean architecture**, **developer experience**, and **shipping things that work**.
 
 ```yaml
-focus:        WebAuthn · gRPC · realtime systems · API design
-learning:     Go · Flutter
-playground:   Hackathons · side projects · open-source
-ask_me_about: Microservices · TypeScript · NestJS · Vue 3 · Prisma
+focus:         API design · gRPC · realtime systems · WebAuthn
+currently:     Building production web apps @ SoftZenIT
+learning:      Go · Flutter
+playground:    Hackathons · side projects · open-source
+ask_me_about:  Microservices · TypeScript · NestJS · Vue 3 · Prisma
 ```
+
+<!-- ───────────────────────────── STACK ───────────────────────────── -->
 
 ## 🛠 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,go,java,dart,cpp,vue,nuxt,tailwind,sass,flutter,nestjs,nodejs,spring,prisma,grpc,postgres,mongodb,redis,sqlite,docker,gcp,git,jest,figma,vscode&perline=13" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go,java,dart,cpp,vue,nuxt,tailwind,sass,flutter,nestjs,nodejs,spring,prisma,postgres,mongodb,redis,sqlite,docker,gcp,git,jest,figma,vscode&perline=13&theme=dark" alt="Tech stack" />
   </a>
 </p>
+
+<!-- ─────────────────────────── PROJECTS ─────────────────────────── -->
 
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="33%" valign="top">
+  <tr>
+    <td width="33%" valign="top">
 
-### 🔐 [passkeys-auth-migration](https://github.com/SoftZenIT/passkeys-auth-migration)
+#### 🔐 [passkeys-auth-migration](https://github.com/SoftZenIT/passkeys-auth-migration)
 
 Toolkit for migrating user authentication from passwords to **WebAuthn / Passkeys**.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![WebAuthn](https://img.shields.io/badge/WebAuthn-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=3B82F6&labelColor=1a1b27" alt="JavaScript" />
+<img src="https://img.shields.io/badge/WebAuthn-1a1b27?style=flat-square&logo=webauthn&logoColor=3B82F6&labelColor=1a1b27" alt="WebAuthn" />
 <br/>
-![Stars](https://img.shields.io/github/stars/SoftZenIT/passkeys-auth-migration?style=flat-square&color=yellow&label=★)
+<img src="https://img.shields.io/github/stars/SoftZenIT/passkeys-auth-migration?style=flat-square&logo=github&logoColor=3B82F6&label=Stars&labelColor=1a1b27&color=3B82F6" alt="Stars" />
 
 </td>
-<td width="33%" valign="top">
+    <td width="33%" valign="top">
 
-### 💬 [nest-whatsapp](https://github.com/SoftZenIT/nest-whatsapp)
+#### 💬 [nest-whatsapp](https://github.com/SoftZenIT/nest-whatsapp)
 
 NestJS module for integrating **WhatsApp messaging** — typed, batteries-included.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3B82F6&labelColor=1a1b27" alt="TypeScript" />
+<img src="https://img.shields.io/badge/NestJS-1a1b27?style=flat-square&logo=nestjs&logoColor=3B82F6&labelColor=1a1b27" alt="NestJS" />
 <br/>
-![Stars](https://img.shields.io/github/stars/SoftZenIT/nest-whatsapp?style=flat-square&color=yellow&label=★)
+<img src="https://img.shields.io/github/stars/SoftZenIT/nest-whatsapp?style=flat-square&logo=github&logoColor=3B82F6&label=Stars&labelColor=1a1b27&color=3B82F6" alt="Stars" />
 
 </td>
-<td width="33%" valign="top">
+    <td width="33%" valign="top">
 
-### 📋 [b-board](https://github.com/SoftZenIT/b-board)
+#### 📋 [b-board](https://github.com/SoftZenIT/b-board)
 
-<!-- EDIT: a one-liner describing what b-board does would land well here -->
-Personal project — collaborative board / workspace.
+Collaborative board / workspace for organizing projects and tasks.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3B82F6&labelColor=1a1b27" alt="TypeScript" />
 <br/>
-![Stars](https://img.shields.io/github/stars/SoftZenIT/b-board?style=flat-square&color=yellow&label=★)
+<img src="https://img.shields.io/github/stars/SoftZenIT/b-board?style=flat-square&logo=github&logoColor=3B82F6&label=Stars&labelColor=1a1b27&color=3B82F6" alt="Stars" />
 
 </td>
-</tr>
+  </tr>
 </table>
 
-## 📊 GitHub Activity
+<!-- ──────────────────────────── STATS ──────────────────────────── -->
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sadjous&show_icons=true&count_private=true&include_all_commits=true&border_color=30363d&bg_color=1a1b27&title_color=3B82F6&icon_color=3B82F6&text_color=a9b1d6" alt="Sadjad's GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadjous&layout=compact&langs_count=8&border_color=30363d&bg_color=1a1b27&title_color=3B82F6&text_color=a9b1d6" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sadjous&hide_border=true&theme=tokyonight" />
-    <img src="https://streak-stats.demolab.com?user=sadjous&hide_border=true" alt="Contribution streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=sadjous&hide_border=false&border=30363d&background=1a1b27&stroke=30363d&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3B82F6&sideLabels=a9b1d6&dates=8b949e" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sadjous&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=sadjous&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-  </picture>
-</p>
+<!-- ──────────────────────────── WRITING ──────────────────────────── -->
+
+## ✍️ Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Read the latest from **blog.msadjad.dev** →](https://blog.msadjad.dev)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ──────────────────────────── SNAKE ──────────────────────────── -->
 
 ## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadjous/sadjous/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/sadjous/sadjous/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/sadjous/sadjous/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </picture>
 
----
+<!-- ──────────────────────────── FOOTER ──────────────────────────── -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:3b82f6&height=2&section=header" alt="" />
 
 <p align="center">
   <sub>💬 Open to interesting conversations about software, side projects, and emerging tech.<br/>
