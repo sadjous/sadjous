@@ -2,9 +2,11 @@
 # between the <!-- BLOG-POST-LIST:START --> / END markers.
 # Runs daily and on manual dispatch.
 #
-# NOTE: blog.msadjad.dev sits behind Vercel's Security Checkpoint (anti-bot).
-# If posts don't appear, the runner's fetch is likely being challenged —
-# allow the feed path through the firewall, or confirm the feed URL below.
+# NOTE: blog.msadjad.dev sits behind Vercel's Security Checkpoint (anti-bot),
+# which 429-blocks the runner's fetch. To make it work, allow /rss.xml through
+# the Vercel firewall (disable Attack Challenge Mode for that path).
+# Until then `continue-on-error` keeps this from failing the checks — though
+# the 429 annotation will still show on each run.
 
 name: Latest blog posts
 
@@ -19,10 +21,11 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
       - name: Pull latest blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # 1.9.6
         with:
           feed_list: "https://blog.msadjad.dev/rss.xml"
           max_post_count: 5

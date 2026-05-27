@@ -1,13 +1,18 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!--  Profile README · github.com/sadjous                                  -->
-<!--  Design system — single accent, applied everywhere:                   -->
-<!--    navy / card bg : #1a1b27   accent (blue) : #3B82F6                 -->
-<!--    body text       : #a9b1d6   muted text    : #8b949e                -->
+<!--  Design system                                                        -->
+<!--    accent (blue) #3B82F6 · navy / tag bg #1a1b27                      -->
+<!--    banner gradient : #0f172a → #1e3a8a → #3b82f6                       -->
+<!--    stats cards     : profile-summary-cards "github_dark" preset       -->
+<!--                      (bg #0d1117, border #2e343b); streak matches it   -->
+<!--    badge tiers     : blue  = links / identity (social, AI, About)     -->
+<!--                      navy+logo = info tags (tech, location, stars)     -->
+<!--    body text #a9b1d6 · muted #8b949e                                  -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ───────────────────────────── HERO ───────────────────────────── -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3b82f6&height=190&section=header&text=Sadjad%20Ousmane&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-stack%20Software%20Engineer&descSize=18&descAlignY=58" alt="Sadjad Ousmane — Full-stack Software Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,100:3b82f6&height=190&section=header&text=Sadjad%20Ousmane&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-stack%20Software%20Engineer&descSize=18&descAlignY=58" alt="Sadjad Ousmane — Full-stack Software Engineer" />
 
 <p align="center">
   <a href="https://msadjad.dev">
@@ -20,7 +25,7 @@
   <a href="https://blog.msadjad.dev"><img src="https://img.shields.io/badge/Blog-3B82F6?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/sadjous"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://twitter.com/sadj_ous"><img src="https://img.shields.io/badge/Twitter-3B82F6?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="mailto:ousmanesadjad@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:me@msadjad.dev"><img src="https://img.shields.io/badge/✉_Email-3B82F6?style=flat-square&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -36,13 +41,39 @@
 
 I'm a Computer Science graduate who builds production web applications by day and explores emerging tech by night. I care about **clean architecture**, **developer experience**, and **shipping things that work**.
 
-```yaml
-focus:         API design · gRPC · realtime systems · WebAuthn
-currently:     Building production web apps @ SoftZenIT
-learning:      Go · Flutter
-playground:    Hackathons · side projects · open-source
-ask_me_about:  Microservices · TypeScript · NestJS · Vue 3 · Prisma
-```
+<table>
+  <tr>
+    <td>🎯&nbsp;<b>Focus</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/API_design-3B82F6?style=flat-square" alt="API design" />
+      <img src="https://img.shields.io/badge/gRPC-3B82F6?style=flat-square" alt="gRPC" />
+      <img src="https://img.shields.io/badge/Realtime_systems-3B82F6?style=flat-square" alt="Realtime systems" />
+      <img src="https://img.shields.io/badge/WebAuthn-3B82F6?style=flat-square" alt="WebAuthn" />
+    </td>
+  </tr>
+  <tr>
+    <td>🌱&nbsp;<b>Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go" />
+      <img src="https://img.shields.io/badge/Flutter-3B82F6?style=flat-square" alt="Flutter" />
+      <img src="https://img.shields.io/badge/DevOps-3B82F6?style=flat-square" alt="DevOps" />
+    </td>
+  </tr>
+  <tr>
+    <td>💬&nbsp;<b>Ask me about</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices" />
+      <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/NestJS-3B82F6?style=flat-square" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Vue_3-3B82F6?style=flat-square" alt="Vue 3" />
+      <img src="https://img.shields.io/badge/Prisma-3B82F6?style=flat-square" alt="Prisma" />
+    </td>
+  </tr>
+  <tr>
+    <td>⚡&nbsp;<b>Currently</b></td>
+    <td>Building production web apps @ <a href="https://github.com/SoftZenIT">SoftZenIT</a></td>
+  </tr>
+</table>
 
 <!-- ───────────────────────────── STACK ───────────────────────────── -->
 
@@ -52,6 +83,21 @@ ask_me_about:  Microservices · TypeScript · NestJS · Vue 3 · Prisma
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,go,java,dart,cpp,vue,nuxt,tailwind,sass,flutter,nestjs,nodejs,spring,prisma,postgres,mongodb,redis,sqlite,docker,gcp,git,jest,figma,vscode&perline=13&theme=dark" alt="Tech stack" />
   </a>
+</p>
+
+<p align="center">
+  <sub>⚙️ Diving into DevOps</sub><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,ansible,githubactions,jenkins,linux,bash,prometheus,grafana&theme=dark" alt="DevOps tools I'm learning" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🤖 Exploring with</sub><br/>
+  <img src="https://img.shields.io/badge/Claude-3B82F6?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-3B82F6?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-3B82F6?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-3B82F6?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
 <!-- ─────────────────────────── PROJECTS ─────────────────────────── -->
@@ -64,7 +110,7 @@ ask_me_about:  Microservices · TypeScript · NestJS · Vue 3 · Prisma
 
 #### 🔐 [passkeys-auth-migration](https://github.com/SoftZenIT/passkeys-auth-migration)
 
-Toolkit for migrating user authentication from passwords to **WebAuthn / Passkeys**.
+An **Agent Skill** that migrates any auth system to passkeys (WebAuthn / FIDO2) — framework-aware and FIDO-compliant.
 
 <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=3B82F6&labelColor=1a1b27" alt="JavaScript" />
 <img src="https://img.shields.io/badge/WebAuthn-1a1b27?style=flat-square&logo=webauthn&logoColor=3B82F6&labelColor=1a1b27" alt="WebAuthn" />
@@ -76,7 +122,7 @@ Toolkit for migrating user authentication from passwords to **WebAuthn / Passkey
 
 #### 💬 [nest-whatsapp](https://github.com/SoftZenIT/nest-whatsapp)
 
-NestJS module for integrating **WhatsApp messaging** — typed, batteries-included.
+NestJS module for the **WhatsApp Cloud API** — sandbox & live modes, webhooks, microservice transport, metrics.
 
 <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3B82F6&labelColor=1a1b27" alt="TypeScript" />
 <img src="https://img.shields.io/badge/NestJS-1a1b27?style=flat-square&logo=nestjs&logoColor=3B82F6&labelColor=1a1b27" alt="NestJS" />
@@ -88,9 +134,12 @@ NestJS module for integrating **WhatsApp messaging** — typed, batteries-includ
 
 #### 📋 [b-board](https://github.com/SoftZenIT/b-board)
 
-Collaborative board / workspace for organizing projects and tasks.
+Framework-agnostic **virtual keyboard** UI library for Beninese languages (Yoruba, Fon, Baatɔnum, Dendi).
 
 <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3B82F6&labelColor=1a1b27" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=3B82F6&labelColor=1a1b27" alt="React" />
+<img src="https://img.shields.io/badge/Vue-1a1b27?style=flat-square&logo=vuedotjs&logoColor=3B82F6&labelColor=1a1b27" alt="Vue" />
+<img src="https://img.shields.io/badge/Angular-1a1b27?style=flat-square&logo=angular&logoColor=3B82F6&labelColor=1a1b27" alt="Angular" />
 <br/>
 <img src="https://img.shields.io/github/stars/SoftZenIT/b-board?style=flat-square&logo=github&logoColor=3B82F6&label=Stars&labelColor=1a1b27&color=3B82F6" alt="Stars" />
 
@@ -105,16 +154,16 @@ Collaborative board / workspace for organizing projects and tasks.
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sadjous&show_icons=true&count_private=true&include_all_commits=true&border_color=30363d&bg_color=1a1b27&title_color=3B82F6&icon_color=3B82F6&text_color=a9b1d6" alt="Sadjad's GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadjous&theme=github_dark" alt="Sadjad's GitHub stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadjous&layout=compact&langs_count=8&border_color=30363d&bg_color=1a1b27&title_color=3B82F6&text_color=a9b1d6" alt="Most used languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadjous&theme=github_dark" alt="Most-used languages by commits" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadjous&hide_border=false&border=30363d&background=1a1b27&stroke=30363d&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3B82F6&sideLabels=a9b1d6&dates=8b949e" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=sadjous&hide_border=false&border=2e343b&background=0d1117&stroke=2e343b&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3B82F6&sideLabels=a9b1d6&dates=8b949e" alt="GitHub streak" />
 </p>
 
 <!-- ──────────────────────────── WRITING ──────────────────────────── -->
@@ -140,5 +189,5 @@ Collaborative board / workspace for organizing projects and tasks.
 
 <p align="center">
   <sub>💬 Open to interesting conversations about software, side projects, and emerging tech.<br/>
-  Reach me on <a href="https://www.linkedin.com/in/sadjous">LinkedIn</a> or at <a href="mailto:ousmanesadjad@gmail.com">ousmanesadjad@gmail.com</a>.</sub>
+  Reach me on <a href="https://www.linkedin.com/in/sadjous">LinkedIn</a> or at <a href="mailto:me@msadjad.dev">me@msadjad.dev</a>.</sub>
 </p>
