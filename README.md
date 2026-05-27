@@ -139,7 +139,6 @@ Framework-agnostic **virtual keyboard** UI library for Beninese languages (Yorub
 <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3B82F6&labelColor=1a1b27" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=3B82F6&labelColor=1a1b27" alt="React" />
 <img src="https://img.shields.io/badge/Vue-1a1b27?style=flat-square&logo=vuedotjs&logoColor=3B82F6&labelColor=1a1b27" alt="Vue" />
-<img src="https://img.shields.io/badge/Angular-1a1b27?style=flat-square&logo=angular&logoColor=3B82F6&labelColor=1a1b27" alt="Angular" />
 <br/>
 <img src="https://img.shields.io/github/stars/SoftZenIT/b-board?style=flat-square&logo=github&logoColor=3B82F6&label=Stars&labelColor=1a1b27&color=3B82F6" alt="Stars" />
 
